@@ -1,4 +1,5 @@
 body{
+    margin: 0%;
     font-family: "Trirong", serif;
 }
 h1{
@@ -14,6 +15,13 @@ h1{
     padding-left: 2%;
 }
 .half-width img{
-    margin-top: -40%;
     width: 100%;
+}
+.top-background{  
+    background-image: url("image/top-banner.png");
+    background-repeat: no-repeat;
+   
+}
+section{
+    height: 500px;
 }
